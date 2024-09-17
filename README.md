@@ -2,6 +2,10 @@
 
 /Ghoul Hub Is A Hub That Is An Upcoming Roblox Exploiting Hub, That has Variety Of Games!
 
+- Supported Executors
+  - Wave | Fully
+  - Solara | Not Fully
+
 - Supported Games
   - RE:XL
   - Character RNG
