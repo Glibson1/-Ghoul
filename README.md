@@ -19,4 +19,4 @@
 
 * **Active Discord Server**: Join our Discord server to connect with other users, get support, and stay up-to-date on the latest developments.
 
-* ** Let me know if you'd like me to add anything else!
+* * Let me know if you'd like me to add anything else!*
